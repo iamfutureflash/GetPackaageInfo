@@ -19,7 +19,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAlignment="center"
-        android:text="List of Apps Installed"
+        android:text="0 List of Apps Installed"
         android:textSize="24sp"/>
     <ListView
         android:id="@+id/listViewInstalledApps"
